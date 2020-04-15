@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "192329635899",
+    "firebase_url": "https://vmchconnect.firebaseio.com",
+    "project_id": "vmchconnect",
+    "storage_bucket": "vmchconnect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192329635899:android:5c5dccae1bc8bea6de241e",
+        "android_client_info": {
+          "package_name": "com.example.pfuternik.vidyoiodemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192329635899-tcmspb8n1h6a8icsre6otlmc7rr3bj4c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWbWLfrF396gD2Zd2iIoqDxTvWlQq0CkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "192329635899-tcmspb8n1h6a8icsre6otlmc7rr3bj4c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">VMCH Connect</string>
+    <string name="action_sign_in_short">Register</string>
+    <string name="email">Email</string>
+    <string name="minimum_password">Password too short, enter minimum 6 characters!</string>
+    <string name="auth_failed">Authentication failed, check your email and password or sign up</string>
+    <string name="change_email">Change Email</string>
+    <string name="change_password">Change Password</string>
+    <string name="send_password_reset_email">Send Password reset email</string>
+    <string name="remove_user">Remove user</string>
+    <string name="new_pass">New Password</string>
+    <string name="title_activity_profile">Firebase</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Fullname</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_link_to_register">Not a member? Get registered in Firebase now!</string>
+    <string name="btn_link_to_login">Already registered. Login Me!</string>
+    <string name="title_activity_reset_password">ResetPasswordActivity</string>
+    <string name="btn_forgot_password">Forgot your password?</string>
+    <string name="btn_reset_password">Reset Password</string>
+    <string name="btn_back"><![CDATA[<< Back]]></string>
+    <string name="hint_new_email">New Email</string>
+    <string name="btn_change">Change</string>
+    <string name="btn_send">Send</string>
+    <string name="btn_remove">Remove</string>
+    <string name="btn_sign_out">Sign Out</string>
+    <string name="lbl_forgot_password">Forgot password?</string>
+    <string name="forgot_password_msg">We just need your registered Email Id to sent you password reset instructions.</string>
+    <string name="Multiline_Text_By_N">
+        I consent to engaging in telemedicine consultation with Velammal Medical College Hospital and Research Institute, Madurai. \n \n
+I understand that Telemedicine involves the use of electronic communications to enable health care providers at different locations to share individual patient medical information for the purpose of improving patient care. Providers may include primary care practitioners, specialists, and/or subspecialists. \n \n
+The information may be used for diagnosis, therapy, follow-up and/or education, and may include Patient medical records/Medical images/ Live two-way audio and video/Output data from medical devices and sound and video files. \n \n
+As with any medical procedure, there are potential risks associated with the use of telemedicine.\n \n These risks include, but may not be limited to: \n \n
+In rare cases, information transmitted may not be sufficient (e.g. poor resolution of images) to allow for appropriate medical decision making by the physician and consultant(s); \n \n
+Delays in medical evaluation and treatment could occur due to deficiencies or failures of the equipment; \n \n
+In rare instances, security protocols could fail, causing a breach of privacy of personal medical information; \n \n
+In rare cases, a lack of access to complete medical records may result in adverse drug interactions or allergic reactions or other judgment errors;\n \n
+
+
+By signing this form, I understand the following: \n \n
+1. I understand that the laws that protect privacy and the confidentiality of medical information also apply to telemedicine, and that no information obtained in the use of telemedicine which identifies me will be disclosed to researchers or other entities without my consent. \n \n
+2. I understand that I have the right to withhold or withdraw my consent to the use of telemedicine in the course of my care at any time, without affecting my right to future care or treatment. \n \n
+3. I understand that I have the right to inspect all information obtained and recorded in the course of a telemedicine interaction, and may receive copies of this information for a reasonable fee.\n \n
+4. I understand that a variety of alternative methods of medical care may be available to me, and that I may choose one or more of these at any time. My physician/consultant has explained the alternatives to my satisfaction. \n \n
+5. I understand that telemedicine may involve electronic communication of my personal medical information to other medical practitioners who may be located in other areas, including out of state.\n \n
+6. I understand that it is my duty to inform my physician/consultant of electronic interactions regarding my care that I may have with other healthcare providers. \n \n
+7. I understand that I may expect the anticipated benefits from the use of telemedicine in my care, but that no results can be guaranteed or assured.\n \n
+Patient Consent to the use of Telemedicine \n \n
+        </string>
+    <string name="rule1">
+        I have read and understand the information provided above regarding telemedicine, have discussed it with my physician/consultant or such assistants as may be designated, and all of my questions have been answered to my satisfaction. \n \n</string>
+    <string name="rule2">
+    I hereby give my informed consent for the use of telemedicine in my medical care. I hereby authorize to use telemedicine in the course of my diagnosis and treatment.    \n \n </string>
+    <string name="about">
+    Velammal Medical College Hospital and Research Institute Telemedicine (VMCHRIT) refers to the practice of caring for patients remotely when the patient cannot be physically present due to personal reasons and during other emergency situations like pandemics. \n \nThis mobile APP enables patients to consult doctors by using video-conferencing. Also, we assure that the technology used will protect patients medical records and other health information. \n \n
+
+Using this Mobile APP first the patient has to book the appointment to consult the doctor. Doctor booking can be done for the following departments \n \n
+Cardiology\n \n
+General\n \n
+Orthopaedic\n \n
+
+Once the appointment has been booked, patient will be allowed to make a video conferencing and discuss their issues. Also they can share their previous medical health records either before or just the beginning of the video conferencing. At the end of doctor consultation patient will get their prescription through their email. \n \n
+
+So the steps for doctor consultation \n \n
+Appointment Booking (includes fee payment of Rs. 200) \n \n
+Upload documents (previous health records if any) \n \n
+Video conferencing (consultation with the doctor) \n \n
+Receiving of prescription \n \n
+
+Hope you will get a good experience as like in-person consultation. We pray almighty to recover from your health issues soon.
+</string>
+
+</resources>

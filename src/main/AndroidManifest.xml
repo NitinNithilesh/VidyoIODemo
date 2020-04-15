@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.pfuternik.vidyoiodemo">
+
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Consultation"></activity>
+        <activity android:name=".Form" />
+        <activity android:name=".Calendar" />
+        <activity android:name=".Success" />
+        <activity android:name=".Pay1" />
+        <activity android:name=".Today1" />
+        <activity android:name=".Schedule1" />
+        <activity android:name=".ResetPasswordActivity" />
+        <activity android:name=".Upload13" />
+        <activity android:name=".Upload12" />
+        <activity android:name=".Upload11" />
+        <activity android:name=".Upload10" />
+        <activity android:name=".Upload9" />
+        <activity android:name=".Upload8" />
+        <activity android:name=".Upload7" />
+        <activity android:name=".Upload6" />
+        <activity android:name=".Upload5" />
+        <activity android:name=".Upload4" />
+        <activity android:name=".Upload3" />
+        <activity android:name=".Upload2" />
+        <activity android:name=".Upload1" />
+        <activity android:name=".newmenu2" />
+        <activity android:name=".menu13" />
+        <activity android:name=".menu12" />
+        <activity android:name=".menu11" />
+        <activity android:name=".menu10" />
+        <activity android:name=".menu9" />
+        <activity android:name=".menu8" />
+        <activity android:name=".menu7" />
+        <activity android:name=".menu6" />
+        <activity android:name=".menu5" />
+        <activity android:name=".menu4" />
+        <activity android:name=".Doctor13" />
+        <activity android:name=".Doctor12" />
+        <activity android:name=".Doctor11" />
+        <activity android:name=".Doctor10" />
+        <activity android:name=".Doctor9" />
+        <activity android:name=".Doctor8" />
+        <activity android:name=".Doctor7" />
+        <activity android:name=".Doctor6" />
+        <activity android:name=".Doctor5" />
+        <activity android:name=".Doctor4" />
+        <activity android:name=".menu3" />
+        <activity android:name=".menu1" />
+        <activity android:name=".Doctor2" />
+        <activity android:name=".Doctor3" />
+        <activity android:name=".Doctor1" />
+        <activity android:name=".Menu" />
+        <activity android:name=".Homepage" />
+        <activity android:name=".Login" />
+        <activity android:name=".Register" />
+        <activity
+            android:name=".MainActivity"
+            android:theme="@style/SplashTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="com.razorpay.ApiKey"
+            android:value="rzp_test_1pYv4paxd1jKRP" />
+    </application>
+
+</manifest>
